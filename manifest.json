@@ -3,7 +3,7 @@
   "short_name": "GoCav",
   "description": "Premium transport — Airport Transfers, Tagaytay & Manila Tours",
   "start_url": "/boookingbackup/",
-  "display": "standalone",
+  "display": "/boookingbackup/",
   "background_color": "#000000",
   "theme_color": "#d4af37",
   "orientation": "portrait-primary",
